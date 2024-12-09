@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @prakashsah1
-- 👀 I’m interested in applications of Artificial intelligence and Machine learning in Biological Sciences
-- 🌱 I’m currently learning AI with python
+- 👀 I’m interested in Data Science for Genomics and applications of Machine learning in Biological Sciences
 - 📫 I can be reached at prakash.brj@gmail.com
 
 

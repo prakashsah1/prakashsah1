@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @prakashsah1
-- 👀 I’m interested in Data Science for Omics and applications of Machine learning in Biological Sciences
-- 📫 I can be reached at prakash.brj@gmail.com
+- 👋 Hi, I’m Prakash Sah
+- 👀 Molecular biologist/Bioinformatician. My wet lab expertise inlcude molecular biology of bacterial pathogens immunology (immunometabolism). Experienced in analyzing RNA-seq, ChIP-seq, methylation arrays, and proteomics datasets.
+- 💻 Skilled in R (tidyverse, Bioconductor, ggplot2) and developing my python toolkit.
+- 🎓 Certified in Data Analysis for Genomics (HarvardX).
+- 🌱 Actively exploring public datasets (TCGA, PDC) and sharing reproducible analyses here on GitHub.  
+- 📫 Connect with me
+- [Email] prakash.brj@gmail.com
+- [LinkedIn](https://linkedin.com/in/prakash-sah1)
+
 
 
 

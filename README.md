@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prakash Sah
-- 👀 Molecular biologist/Bioinformatician. My wet lab expertise inlcude molecular biology of bacterial pathogens immunology (immunometabolism). Experienced in analyzing RNA-seq, ChIP-seq, methylation arrays, and proteomics datasets.
+- 👀 Molecular biologist/Bioinformatician. My wet lab expertise include molecular biology of bacterial pathogens and immunology (immunometabolism). Experienced in analyzing RNA-seq, ChIP-seq, methylation arrays, and proteomics datasets.
 - 💻 Skilled in R (tidyverse, Bioconductor, ggplot2) and developing my python toolkit.
 - 🎓 Certified in Data Analysis for Genomics (HarvardX).
 - 🌱 Actively exploring public datasets (TCGA, PDC) and sharing reproducible analyses here on GitHub.  

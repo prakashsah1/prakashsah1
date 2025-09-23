@@ -4,7 +4,7 @@
 - 🎓 Certified in Data Analysis for Genomics (HarvardX).
 - 🌱 Actively exploring public datasets (TCGA, PDC) and sharing reproducible analyses here on GitHub.  
 - 📫 Connect with me
-- [Email] prakash.brj@gmail.com
+- [Email] (prakash.brj@gmail.com)
 - [LinkedIn](https://linkedin.com/in/prakash-sah1)
 
 

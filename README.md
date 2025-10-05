@@ -9,7 +9,7 @@
 📫 Connect with me: [Email](mailto:prakash.brj@gmail.com) | [LinkedIn](https://linkedin.com/in/prakash-sah1)
 
 ## Example Work
-Here’s a heatmap I generated during one of my analyses:
+Here’s a heatmap (protein abundance of potential drug targets in Hepatocellular carcinoma) I generated during one of my analyses:
 
 
 
